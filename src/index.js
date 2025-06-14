@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client"
 //import FetchDataExample from "./FunctionalComponent/FetchDataExample"
 //import PostDataExample from "./FunctionalComponent/PostAPIDataExample"
 //import PutUpdataExample from "./FunctionalComponent/PutUpdataExample"
+import "./assests/css/main.css"
 import PatchUpdateExample from "./FunctionalComponent/PatchUpdateExample"
 import { BrowserRouter } from "react-router-dom"
 const root = ReactDOM.createRoot(document.getElementById("root"))
