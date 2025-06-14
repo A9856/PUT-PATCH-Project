@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom"
 export default function App() {
   return (
     <div>
-        <BrowserRouter basename="/Project-PUT-PATCH">
+        <BrowserRouter basename="/PUT-PATCH-Project">
         {/* <div className="bg-secondary">
         <h1>Hello World</h1>
         </div> */}
