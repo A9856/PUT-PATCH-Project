@@ -1,14 +1,14 @@
 import React from "react"
-import ReactDOM from "react-dom/client"
+import React from "react"
 //import FetchDataExample from "./FunctionalComponent/FetchDataExample"
 //import PostDataExample from "./FunctionalComponent/PostAPIDataExample"
 //import PutUpdataExample from "./FunctionalComponent/PutUpdataExample"
-import "./assests/css/main.css"
+
 import PatchUpdateExample from "./FunctionalComponent/PatchUpdateExample"
 import { BrowserRouter } from "react-router-dom"
-const root = ReactDOM.createRoot(document.getElementById("root"))
-root.render(
-    <>
+export default function App() {
+  return (
+    <div>
         <BrowserRouter basename="/Project-PUT-PATCH">
         {/* <div className="bg-secondary">
         <h1>Hello World</h1>
@@ -18,6 +18,6 @@ root.render(
         {/* <PutUpdataExample/> */}
         <PatchUpdateExample/>
         </BrowserRouter>
-    </>
-
-)
+    </div>
+  )
+}
