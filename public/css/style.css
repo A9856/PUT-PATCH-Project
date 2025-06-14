@@ -1,0 +1,53 @@
+/* *{
+    margin: auto;
+}
+.main{
+    width: 100vw;height: 100vh;
+}
+.center{
+    width:80%;
+    margin: auto;
+}
+input{
+    width:80%;
+    margin: auto;
+} */
+/* p,
+h1,
+h2{
+    margin-bottom:10px;background-color: red;
+} */
+ .back{
+    background:linear-gradient(to right,gray,dimgray,black);text-align: center;padding-top: 10px;
+    font-family: sans-serif;color: white;
+ }
+ form{
+    /* background-color:blueviolet;margin: auto; */
+    width:80%;margin: auto;padding: 20px;background: #f9f9f9;
+    border-radius: 8px;box-shadow: 0px 4px 6px;
+    text-align: center;
+ }
+ input,textarea{
+    width:100%;padding-top: 10px;padding-bottom: 10px;
+ }
+ button{
+    width:100%;padding: 10px; background:linear-gradient(to right,gray,dimgray,black);color: white;font-size: 25px;
+    border: none;cursor: pointer;border-radius: 4px;font-weight: 100;
+ }
+ .btn1{
+    width:100%;margin-top: 10px;padding: 10px;border: none;cursor: pointer;font-size: 16px;border-radius: 4px;color: white;
+ }
+ h2{
+    border-radius: 4px;font-weight: 100;
+    width:80%;padding: 10px;background:pink;
+    border-radius: 4px;margin: auto;
+ }
+.active{
+    border-bottom: 2px solid blue;
+}
+div{
+    /* background-color:blueviolet;margin: auto; */
+    width:80%;margin: auto;padding: 20px;background: #f9f9f9;border-radius: 8px;
+    box-shadow: 0px 4px 6px;
+    text-align: center;
+ }
