@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PUT-PATCH-Project/static/css/main.acb98569.css",
+    "main.js": "/PUT-PATCH-Project/static/js/main.249f1154.js",
+    "index.html": "/PUT-PATCH-Project/index.html",
+    "main.acb98569.css.map": "/PUT-PATCH-Project/static/css/main.acb98569.css.map",
+    "main.249f1154.js.map": "/PUT-PATCH-Project/static/js/main.249f1154.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb98569.css",
+    "static/js/main.249f1154.js"
+  ]
+}
