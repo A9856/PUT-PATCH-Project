@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom"
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
     <>
-        <BrowserRouter>
+        <BrowserRouter basename="/Project-PUT-PATCH">
         {/* <div className="bg-secondary">
         <h1>Hello World</h1>
         </div> */}
